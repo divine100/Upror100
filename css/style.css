@@ -1,0 +1,22 @@
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+background-color:black;
+}
+.welcome{
+background-color:black;
+border-radius:6px 6px 6px 6px;
+padding:10px;
+border:1px solid #0066CC;
+box-shadow:0px 0px 12px 5px #0066CC;
+width:90%;
+}
+.welcome p{
+font-size:35px;
+color:white;
+font-family:handlee;
+}
+@font-face {
+font-family: 'handlee';
+src: url('fonts/Handlee-Regular.ttf')format('truetype');
+}
