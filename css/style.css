@@ -1,0 +1,44 @@
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+background-color:black;
+}
+.welcome{
+background-color:black;
+border-radius:6px 6px 6px 6px;
+padding:10px;
+border:1px solid #0066CC;
+box-shadow:0px 0px 12px 5px #0066CC;
+width:90%;
+top:30%;
+margin-left:10px;
+position:absolute;
+}
+.welcome p{
+font-size:35px;
+color:white;
+font-family:handlee;
+}
+.welcomes{
+background-color:black;
+border-radius:6px 6px 6px 6px;
+padding:10px;
+border:1px solid #0066CC;
+box-shadow:0px 0px 12px 5px #0066CC;
+width:90%;
+top:15%;
+margin-left:10px;
+position:absolute;
+}
+.welcomes p{
+font-size:35px;
+color:white;
+font-family:handlee;
+}
+#home{
+border:2px solid #0066CC; background-color:#0066CC;padding:5px;text-align:center;color:white;font-weight:bold;width:60px;border-radius:6px 6px 6px 6px;font-size:17px;box-shadow:0px 0px 7px 2px crimson;
+}
+@font-face {
+font-family: 'handlee';
+src: url('fonts/Handlee-Regular.ttf')format('truetype');
+}
